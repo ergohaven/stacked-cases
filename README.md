@@ -2,12 +2,10 @@
 All cases consists of three plates which gives the keyboard more solid look.  
 Additionaly there is an acrylic stands to make them tentable for more comfortable typing experience.
     
-![Lily58](1.jpg)
-![Lily58](2.jpg)
-![Lily58](3.jpg)
-![Lily58](4.jpg)
-![Corne](5.jpg)
-![Corne](6.jpg)
+![Lily58](photo/1.jpg)
+![Lily58](photo/2.jpg)
+![Corne](photo/3.jpg)
+![Corne](photo/4.jpg)
 
 
 ### Suggested BOM:  
