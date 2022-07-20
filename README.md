@@ -1,8 +1,13 @@
-# Lily58 full body case
-Full body case consists of three plates which gives the keyboard more solid look.  
-Additionaly there is an acrylic stands to make this case tentable for more comfortable typing experience.
+# Collection of full body (stacked) cases
+All cases consists of three plates which gives the keyboard more solid look.  
+Additionaly there is an acrylic stands to make them tentable for more comfortable typing experience.
     
-![Lily58](lily58.jpg)
+![Lily58](1.jpg)
+![Lily58](2.jpg)
+![Lily58](3.jpg)
+![Lily58](4.jpg)
+![Corne](5.jpg)
+![Corne](6.jpg)
 
 
 ### Suggested BOM:  
