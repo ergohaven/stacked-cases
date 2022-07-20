@@ -1,6 +1,6 @@
 # Collection of full body (stacked) cases
-All cases consists of three plates which gives the keyboard more solid look.  
-Additionaly there is an acrylic stands to make them tentable for more comfortable typing experience.
+All cases consist of three plates which gives the keyboard a more solid look.
+Additionally there are acrylic stands to make the halves tentable for a more comfortable typing experience.
     
 ![Lily58](photo/1.jpg)
 ![Lily58](photo/2.jpg)
