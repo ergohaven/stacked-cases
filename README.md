@@ -6,7 +6,8 @@ Additionally there are acrylic stands to make the halves tentable for a more com
 ![Lily58](photo/2.jpg)
 ![Corne](photo/3.jpg)
 ![Corne](photo/4.jpg)
-
+![Sofle](photo/5.jpg)
+![Sofle](photo/6.jpg)
 
 ### Suggested BOM:  
 - Top and bottom plates - 3mm acrylic
